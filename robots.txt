@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://seoheroph.github.io/dentist-near-me-rive-1bb28/sitemap.xml
+Sitemap: https://dentist-near-me-rive-1bb28.pages.dev/sitemap.xml
